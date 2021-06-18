@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="18%" align="right" alt="Github" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 I am Palash Hinger, a 3rd year student from Dayananda Sagar College of Engineering. I am passionate about Web Development and Competitive Programming.
